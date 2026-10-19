@@ -1,0 +1,8 @@
+interface,revision,required_mm,nominal_mm,as_printed_mm,offset_or_deviation_mm,criterion,result
+radial clearance,r1,0.1 to 0.5,0.32,-0.22,,0.1-0.5,fail (as printed)
+radial clearance,r2-r5,0.1 to 0.5,0.51,not measured,,0.1-0.5,r5 9/10 insertions
+USB-C opening lower edge,r3,6.4,8.18,,1.78,<=0,fail
+USB-C opening lower edge,"r4,r5",6.4,6.18,,-0.22,<=0,pass
+USB-C opening w x h,r5,,8.95 x 4.00,9.14 x 3.73,+0.19 / -0.27,,r5 10/10 connections
+button-hole centre height,r4,7.4,8.53,,1.13,+-0.35,fail
+button-hole centre height,r5,7.4,7.12,,-0.28,+-0.30,pass; 19/20 presses

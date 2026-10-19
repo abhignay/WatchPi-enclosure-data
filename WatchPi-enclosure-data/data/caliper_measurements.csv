@@ -1,0 +1,13 @@
+item,value_mm_or_count,note
+r1 outer diameter,40.54,fractured part
+r1 cavity diameter,35.91,fractured part
+Waveshare module diameter,36.34,
+USB-C connector lower edge above case bottom (module in r5),6.4,
+switch actuator diameter,2.8,
+switch actuator lower edge above case bottom (module in r5),6.0,axis = 7.40 mm
+r5 USB-C opening width,9.14,
+r5 USB-C opening height,3.73,
+r5 module insertions successful,9/10,
+r5 USB-C connections successful,10/10,
+r5 button presses registered,19/20,
+caliper,MGW Precision DIGE150,0.01 mm resolution

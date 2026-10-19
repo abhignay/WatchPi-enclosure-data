@@ -1,0 +1,6 @@
+revision,print_time_min,total_filament_m,support_share,support_filament_m,model_filament_m,deposition_rate_mm_per_min,layers
+r1,53.27,2.045,0.376,0.769,1.276,38.4,89
+r2,44.9,2.321,0.056,0.13,2.191,51.7,90
+r3,66.17,2.792,0.269,0.751,2.041,42.2,88
+r4,80.62,2.902,0.308,0.894,2.008,36.0,93
+r5,80.22,2.88,0.303,0.873,2.007,35.9,93

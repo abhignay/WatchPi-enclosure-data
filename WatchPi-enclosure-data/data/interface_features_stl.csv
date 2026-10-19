@@ -1,0 +1,6 @@
+revision,usbc_opening_w_mm,usbc_opening_h_mm,usbc_centre_height_mm,button_hole_w_mm,button_hole_h_mm,button_centre_height_mm
+r1,15.1,4.25,9.7,3.3,3.3,7.9
+r2,,,,,,
+r3,8.95,3.35,9.85,,,
+r4,8.95,4.0,8.18,3.35,3.5,8.53
+r5,8.95,4.0,8.18,3.2,3.4,7.12
